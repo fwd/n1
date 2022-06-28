@@ -11,7 +11,7 @@
 > **This software is in-development. Not ready for general use.**
 
 ```bash
-curl -L "https://github.com/fwd/n1/raw/dev/install.sh" | sh
+curl -L "https://github.com/fwd/n1/raw/master/install.sh" | sh
 ```
 
 ![line](https://github.com/fwd/n1/raw/master/.github/line.png)
