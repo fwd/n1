@@ -2,7 +2,7 @@
   <img src="https://github.com/fwd/n1/raw/master/.github/banner.png" alt="Prompts" width="500" />
 </p>
 
-<h2 align="center">Command Line Wallet for Nano (N1)</h2>
+<h2 align="center">Command Line Tool for Nano (N1)</h2>
 
 ![line](https://github.com/fwd/n1/raw/master/.github/line.png)
 
@@ -18,24 +18,22 @@ curl -L "https://github.com/fwd/n1/raw/master/install.sh" | sh
 
 ## ❯ Usage
 
-- ✅ = Operational
-- ⏺ = In-Development
-
 ```
 Local Node (Non-Custodial)
-⏺  $ n1 whois @elon
-⏺  $ n1 search @moon --json
-⏺  $ n1 qrcode @fosse
-⏺  $ n1 plugin list
-⏺  $ n1 setup node
-⏺  $ n1 balance
-⏺  $ n1 send @esteban 0.1
+  $ n1 setup node
+  $ n1 rpc block_count
+  $ n1 send @esteban 0.1
+  $ n1 send @alex 0.133 --json
+  $ n1 wallet --list
+  $ n1 wallet --create 5
+  $ n1 wallet --find ADDRESS
+  $ n1 wallet --change_rep ADDRESS
 
-Options
---help, -h  Print CLI Documentation.
---update, -u  Update CLI Script.
---version, -v  Print CLI Version.
---uninstall, -u  Remove CLI.
+Global Options
+  --help, -h  Print CLI Documentation.
+  --update, -u  Update CLI Script.
+  --version, -v  Print CLI Version.
+  --uninstall, -u  Remove CLI.
 ```
 
 ![line](https://github.com/fwd/n1/raw/master/.github/line.png)
