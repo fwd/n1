@@ -2,7 +2,7 @@
   <img src="https://github.com/fwd/n1/raw/master/.github/banner.png" alt="Prompts" width="500" />
 </p>
 
-<h2 align="center">Nano CLI Wallet (N1)</h2>
+<h2 align="center">Command Line Wallet for Nano (N1)</h2>
 
 ![line](https://github.com/fwd/n1/raw/master/.github/line.png)
 
