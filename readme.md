@@ -14,6 +14,8 @@
 curl -L "https://github.com/fwd/n1/raw/master/install.sh" | sh
 ```
 
+> **For Nano.to CLI, see [N2](https://github.com/fwd/n2)**.
+
 ![line](https://github.com/fwd/n1/raw/master/.github/line.png)
 
 ## ❯ Usage
