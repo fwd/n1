@@ -2,7 +2,7 @@
   <img src="https://github.com/fwd/n1/raw/master/.github/banner.png" alt="Prompts" width="500" />
 </p>
 
-<h2 align="center">Nano Node Manager (N1)</h2>
+<h2 align="center">Nano Node Tool (N1)</h2>
 
 ![line](https://github.com/fwd/n1/raw/master/.github/line.png)
 
@@ -13,8 +13,7 @@
 ```bash
 curl -L "https://github.com/fwd/n1/raw/master/install.sh" | sh
 ```
-
-> **For Nano.to CLI, see [N2](https://github.com/fwd/n2)**.
+L
 
 ![line](https://github.com/fwd/n1/raw/master/.github/line.png)
 
